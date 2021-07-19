@@ -16,17 +16,13 @@ The original transit networks as well as the line graph (labelled with "_lg") ve
 Since the original transit networks are edge weighted we only run our experiments on the line graphs.
 
 ## Detailed Results
-We present detailed results of our computational study for all instances. In particular we report on the following outputs that are explained in the paper.
+We present the results of our computational study for all instances. In particular we report on the following information:
 
-* instance properties:
-
-   - number of nodes
-   - number of edges
-   - treewidth
-
-Computation times for
+Computation times and best objectives for
 
   - row generation algorithm
   - compact MIP formulation
+
+Furthermore, we report the dual bounds of the MIP.
 
 For the computation times, a time limit of 2 hours (i.e., 7200 seconds) was set.
