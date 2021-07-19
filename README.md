@@ -12,7 +12,7 @@ This online supplement provides detailed results of the computational experiment
 
 ## Instances
 For the computational study, we use two types of random transit networks: random trees, and random networks based on Voronoi diagrams.
-The original transit networks as well as the line graph (labelled with "_lg") versions are provided [here](https://github.com/stephanschwartz/vertex_covering_with_capacitated_trees/tree/main/instances). The instances are generated with our [transit network generator](https://github.com/stephanschwartz/transit_network_generator).
+The original transit networks as well as the line graph (labelled with "_lg") versions are provided in a [GitHub repository](https://github.com/stephanschwartz/vertex_covering_with_capacitated_trees/tree/main/instances). The instances are generated with our [transit network generator](https://github.com/stephanschwartz/transit_network_generator).
 Since the original transit networks are edge weighted we only run our experiments on the line graphs.
 
 ## Detailed Results
