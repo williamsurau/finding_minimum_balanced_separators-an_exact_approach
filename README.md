@@ -8,7 +8,7 @@ Zuse Institute Berlin, Takustr 7, 14195 Berlin
 
 ---
 
-This online supplement provides detailed results of the computational experiments conducted for the paper "Finding Minimum Balanced Separators - an Exact Approach". A preprint is available as [technical report](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/) published by Zuse Institute Berlin, 2021.
+This online supplement provides detailed results of the computational experiments conducted for the paper "Finding Minimum Balanced Separators - an Exact Approach". A preprint is available as [technical report](https://opus4.kobv.de/opus4-zib/frontdoor/index/index/docId/8313) published by Zuse Institute Berlin, 2021.
 
 ## Instances
 For the computational study, we use two types of random transit networks: random trees, and random networks based on Voronoi diagrams.
